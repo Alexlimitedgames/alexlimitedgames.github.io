@@ -1,0 +1,62 @@
+/*reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black;
+    color: #0F0;
+    font-family: Consolas, monaco, monospace;
+}
+
+canvas {
+    position: fixed;
+    z-index: -1;
+    display: block;
+    -webkit-filter: blur(4px);
+    -webkit-transform: translate3d(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    padding: 1em;
+}
+
+h3 {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+blockquote {
+    border-color: #0F0;
+}
+
+small {
+    color: #0F0 !important;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    width: 0px;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #0F0;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-button {
+    height: 0px;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-corner {
+    background-color: transparent;
+}
