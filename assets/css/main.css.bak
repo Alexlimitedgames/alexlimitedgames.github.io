@@ -116,7 +116,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
-		color: #f6f2f2;
+		color: #7b818c;
 		font-weight: 400;
 		font-size: 11pt;
 		line-height: 1.85em;

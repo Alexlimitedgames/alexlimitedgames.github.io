@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html lang="es">
+
+<head>
+<title>404 error </title>
+<link rel="shortcut icon" href="/favicon.ico">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    
+    <!-- Chrome, Firefox OS, Opera and Vivaldi -->
+    <meta name="theme-color" content="#000">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#000">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#000">
+
+    <link href="dist/css/bootstrap.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="dist/css/style.css">
+
+    
+</head>
+ 
+<body>
+    <canvas id="c"></canvas>
+
+    <div class="container">
+					</div>
+				</div>
+
+			<!-- Main Wrapper -->
+				<li class="current_page_item"><a href="index.html">volver al Inicio</a></li>
+					<div class="wrapper style2">
+						<div class="inner">
+							<div class="container">
+								<div class="row">
+									<div class="col-4 col-12-medium">
+										<div id="sidebar">
+
+											<!-- Sidebar -->
+
+												
+												<center
+												<div id="centro">
+													<header class="major">
+														 <h2>alparezer aún se sigue desarrollando esta parte del sitio</h2>
+														 <span class="image featured">
+														 <img src="4042.png" alt="" /></span>
+													</header>
+													
+													</ul>
+													<footer>
+					                                 <h3><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">entiendo</a></h3>
+													</footer>
+												</div>	
+												</center>
+	</body>   
+        </blockquote>
+    </div>
+    <script type="text/javascript" src="dist/js/script.js"></script>
+</body>
+
+</html>
+
+<html>
+	<head>
+        <link rel="shortcut icon" href="/favicon.ico">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" />
+	</head>
+	
+</html>
+
+
