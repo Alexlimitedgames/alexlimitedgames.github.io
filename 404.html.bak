@@ -30,7 +30,7 @@
 				</div>
 
 			<!-- Main Wrapper -->
-				<li class="current_page_item"><a href="index.html">volver al Inicio</a></li>
+			 <h4><a href="index.html">Volver al inicio</a></h4>
 					<div class="wrapper style2">
 						<div class="inner">
 							<div class="container">
@@ -44,14 +44,14 @@
 												<center
 												<div id="centro">
 													<header class="major">
-														 <h2>alparezer aún se sigue desarrollando esta parte del sitio</h2>
+														 <h2>Al parecer aún se sigue desarrollando esta parte del sitio</h2>
 														 <span class="image featured">
-														 <img src="4042.png" alt="" /></span>
+														 <img src="4042.png" alt="alexlimitedgames" /></span>
 													</header>
 													
 													</ul>
 													<footer>
-					                                 <h3><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">entiendo</a></h3>
+					                                 <h2><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">entiendo</a></h2>
 													</footer>
 												</div>	
 												</center>

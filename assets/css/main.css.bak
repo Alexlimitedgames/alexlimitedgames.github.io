@@ -36,6 +36,37 @@ body {
 	height: 50px;
 	margin-right: 10px;
 }
+.contenedor{
+	width: 100vh;
+	height: 100vh;
+	display:flex;
+	flex-wrap: wrap;
+	aling-items: center;
+	justify-content: center;
+}
+
+.barra{
+	width: 350px;
+	height: 20px;
+	background: rgba(225,225,225,0.5);
+	border-radius: 10px;
+	box-shadow: 0px 25px 25px rgba(0,0,0,0.1)
+	
+}
+
+.progreso{
+	width: var(--w);
+	height: 100%;
+	background: rgba(225,225,225,1);
+	border-radius: 10px;
+	animation:Aumentar 5s ease;
+}
+@keyframes Aumentar{
+0%{width:0%;}
+100%{width: var(--w)}
+}
+
+
 #img1{
 	float:left;
 	margin:0 0 10px 10px;
@@ -116,7 +147,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
-		color: #7b818c;
+		color: #f6f2f2;
 		font-weight: 400;
 		font-size: 11pt;
 		line-height: 1.85em;

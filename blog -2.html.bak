@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-<title>descarga game maker studio 1.4 gratis/alexlmitedgames </title>
+<title>descarga game maker studio 1.4 gratis/alexlimitedgames </title>
 <link rel="shortcut icon" href="/favicon.ico">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -84,20 +84,39 @@
 
 											<iframe width="560" height="315" src="https://www.youtube.com/embed/sPDS8EmnB2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-											<p>los enlaces de descargar se encuentra en la descripcion del video.</p>
+											<p>Los enlaces de descargar se encuentra en la descripcion del video.</p>
 
 											<h3>importante</h3>
-											<p>yo aquí no estoy promoviendo la piratería,solo comparto un enlace de gms1.4 para tenerlo como maquina del tiempo
-											 el que quiera descargarlo se hace responsable de lo que haga, en el video del blog explico como no meterse en 
-											 ningun problema legal al comercializar juegos creados con este programa obsoleto 100% confiable.</p>
+											<p>Yo aquí no estoy promoviendo la piratería, solo comparto un enlace de gms1.4 para tenerlo como máquina del tiempo el que quiera descargarlo se hace responsable de lo que haga,
+											en el video del blog explico como no meterse en ningún problema legal al comercializar juegos creados con este programa obsoleto 100% confiable.</p>
 
-											<p>extra : estoy creando un vdeo de como actualizar el sdk y con muchas mas cosas como crear botones virtuales,etc,bueno aqui como regalo
-											de visiar mi pagina web les dare este pedaso de codigo, que si ya ustedes crearon unos botones virtuales y colocan este codigo en el evento create de su obj de los contoles
-                                            hara que el juego en pc no aparesca los controles pero si lo abres en movil si aparecen los botones, genial verdad el codigo es el siguiente(si quieres desactivar la opcion de no mostrar en windows pero si en movil,tendras que colocar el codigo como  un comentario).</p>
+											<p>EXTRA: Estoy creando un video de como actualizar el sdk y con muchas más cosas como crear botones virtuales, 
+											etc, bueno aquí como regalo de visitar mi página web les daré este pedazo de código, 
+											que si ya ustedes crearon unos botones virtuales y colocan este código en el evento create de su obj de los controles hará que el juego en pc no aparezca los controles, pero si lo abres en móvil si aparecen los botones, genial verdad el codigo es el siguiente(si quieres desactivar la opción de no mostrar en Windows pero si en móvil, tendras que colocar el código como un comentario).</p>
 											<pre>/// Crear los controles sólo si estamos en Android
 if (os_type != os_android) instance_destroy()</pre>
 										</article>
-
+<header class="major">
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://alexlimitedcoments.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</header>
 										</div>
 									</div>
 								</div>
